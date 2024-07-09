@@ -10,6 +10,6 @@ Creando un archivo Readme, lo que vimos el día de hoy fue lo siguiente:
 ## Alternativas del Emulador
 
 * Memu Emulador
-*Emulador Android
+* Emulador Android
 
 
